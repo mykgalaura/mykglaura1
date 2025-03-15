@@ -1,0 +1,29 @@
+p{
+    text-align: right;
+    font-size: small;
+}
+h1.round3{
+    text-align: left;
+    font-style: normal;
+    font-size: xx-large;
+    border: 2px solid rgb(201, 144, 144);
+    border-radius: 12px;
+    padding: 5px;
+}
+h2{
+    text-align: center;
+    font-size: smaller;
+}
+.button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: rgba(255, 255, 255, 0.521);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  body{
+    background-color: rgba(196, 180, 180, 0.822);
+}
